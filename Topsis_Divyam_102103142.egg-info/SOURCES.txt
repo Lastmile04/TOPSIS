@@ -1,0 +1,10 @@
+README.md
+setup.py
+Topsis/__init__.py
+Topsis/__main__.py
+Topsis_102283025.egg-info/PKG-INFO
+Topsis_102283025.egg-info/SOURCES.txt
+Topsis_102283025.egg-info/dependency_links.txt
+Topsis_102283025.egg-info/entry_points.txt
+Topsis_102283025.egg-info/requires.txt
+Topsis_102283025.egg-info/top_level.txt
